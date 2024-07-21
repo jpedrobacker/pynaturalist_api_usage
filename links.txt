@@ -1,0 +1,2 @@
+Documentation: https://pyinaturalist.readthedocs.io/en/stable/index.html
+API reference: https://www.inaturalist.org/pages/developers
